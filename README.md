@@ -1,3 +1,5 @@
+Just a training project to keep myself up-to-date with vuejs
+
 # product-page
 
 ## Project setup
